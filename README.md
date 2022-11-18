@@ -16,3 +16,7 @@ I have been programming since I got my first copy of an HTML book in 2003. Some 
 - 2016+: Started getting active in WordPress community. [I contributed to Core](https://profiles.wordpress.org/kingkero/) but mostly did custom plugin & theme implementations for customers.
 - 2016 - 2018: Founded & managed my own agency with focus on WP development and Marketing.
 - 2019 - 2022: Worked as a (Senior) Software Engineer, working on custom software, systems architecture, CI/CD and so much more.
+
+## Why kero?
+
+Since many years ago I enjoy manga and anime. One anime I especially liked as a child was [Sgt. Frog](https://en.wikipedia.org/wiki/Sgt._Frog), better known as **Keroro Gunso**. I really liked the series and so **kero** sticked as a pseudonym for many online services. Due do its brevity it is often already taken, and I'll just use **kingkero** instead (because of the alliteration and reference to Kong; my hybris is just a minor reason in choosing this prefix).
