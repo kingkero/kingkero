@@ -15,4 +15,4 @@ I have been programming since I got my first copy of an HTML book in 2003. Some 
 - 2015: Finished my Bachelor's in "Informatik" (Computer Science) at WWU Münster, Germany.
 - 2016+: Started getting active in WordPress community. [I contributed to Core](https://profiles.wordpress.org/kingkero/) but mostly did custom plugin & theme implementations for customers.
 - 2016 - 2018: Founded & managed my own agency with focus on WP development and Marketing.
-- 2019 - 2022: Worked as a (Senior) Software Engineer, mostly working on custom software, systems architecture, CI/CD and so much more.
+- 2019 - 2022: Worked as a (Senior) Software Engineer, working on custom software, systems architecture, CI/CD and so much more.
