@@ -6,8 +6,9 @@
 
 <br><br>
 
-I have been programming since I got my first copy of an HTML book in 2003. Some milestones are:
+I have been programming since I got my first copy of an HTML book in 2001. Some milestones are:
 
+- 2003: Started with PHP after learning basic HTML and CSS.
 - 2004 - 2009: Developed custom PHP plugins for the software "WBB" / "Burning Board"
 - 2006: Developed a custom CMS that [was online at least until 2014](https://web.archive.org/web/20140329002324/http://manutd.ch/) using the PHP framework [Kohana](https://github.com/kohana) and HTML/CSS/JS.
 - 2011: Finished high school and started Bachelor's.
